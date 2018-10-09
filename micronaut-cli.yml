@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: swaggerdemo
+---
+testFramework: junit
+sourceLanguage: java
